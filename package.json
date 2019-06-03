@@ -1,0 +1,21 @@
+{
+    "name": "dusk-vscode",
+    "displayName": "Dusk Vscode",
+    "description": "Dusk vscode theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.34.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dusk Vscode",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dusk Vscode-color-theme.json"
+            }
+        ]
+    }
+}
