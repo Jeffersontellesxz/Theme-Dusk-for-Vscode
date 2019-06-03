@@ -120,7 +120,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E12DA0</string>
+				<string>#00A0BE</string>
 			</dict>
 		</dict>
 		<dict>
@@ -194,6 +194,17 @@
 			<string>variable.parameter</string>
 			<key>settings</key>
 			<dict>
+				<key>foreground</key>
+				<string>#C78024</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Function argument</string>
+			<key>scope</key>
+			<string>variable.parameter</string>
+			<key>settings</key>
+			<dict>
 			</dict>
 		</dict>
 		<dict>
@@ -248,7 +259,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#00a0be</string>
+				<string>#83C157</string>
 			</dict>
 		</dict>
 		<dict>
